@@ -6,10 +6,6 @@
     keymap {
         compatible = "zmk,keymap";
 
-        /* ==========================
-           Layer 0 — Base (QWERTY)
-           ========================== */
-
         layer_0 {
             bindings = <
                 &kp ESC     &kp Q      &kp W      &kp E      &kp R      &kp T
@@ -23,10 +19,6 @@
                 &kp ENTER   &mo 2      &kp RCTRL
             >;
         };
-
-        /* ==========================
-           Layer 1 — Números / símbolos
-           ========================== */
 
         layer_1 {
             bindings = <
@@ -42,10 +34,6 @@
             >;
         };
 
-        /* ==========================
-           Layer 2 — Funciones / flechas
-           ========================== */
-
         layer_2 {
             bindings = <
                 &kp F1      &kp F2     &kp F3     &kp F4     &kp F5     &kp F6
@@ -59,10 +47,6 @@
                 &none       &none      &none
             >;
         };
-
-        /* ==========================
-           Layer 3 — Sistema (sin RGB)
-           ========================== */
 
         layer_3 {
             bindings = <
