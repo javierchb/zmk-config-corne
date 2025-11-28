@@ -110,8 +110,8 @@
                 &kp LSFT   &kp Z    &kp X    &kp C    &kp V    &kp B
                 &kp N      &kp M    &kp COMMA &kp DOT &kp SLASH &kp RSFT
 
-                &kp LALT   &mo 1    &kp SPACE
-                &kp ENTER  &mo 2    &kp RCTRL
+                &kp LALT   &mo 1    &kp ENTER
+                &kp SPACE  &mo 2    &kp RCTRL
             >;
         };
 
@@ -124,7 +124,7 @@
                 &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp N6
                 &kp N7    &kp N8    &kp N9    &kp N0    &kp MINUS &kp EQUAL
 
-                &kp LGUI  &none     &none     &none     &none     &none
+                &none  &kp BSLH     &none     &none     &none     &none
                 &kp PSCRN &none     &none     &none     &kp LBKT  &kp RBKT
 
                 &kp LSFT &none &none &none &none &none
