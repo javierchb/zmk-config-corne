@@ -2,7 +2,7 @@
    Convertido desde VIA por Javier + ChatGPT
 */
 
- / {
+/ {
     keymap {
         compatible = "zmk,keymap";
 
