@@ -1,7 +1,3 @@
-/* Corne Keyboard — ZMK keymap
-   Convertido desde VIA por Javier + ChatGPT
-*/
-
 / {
     keymap {
         compatible = "zmk,keymap";
