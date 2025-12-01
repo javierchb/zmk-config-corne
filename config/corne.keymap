@@ -148,7 +148,7 @@
                 &bt BT_CLR &bt BT_CLR_ALL &none &none &kp DOWN &kp UP
 
                 &kp CAPSLOCK &none &none &none &none &none
-                &bt BT_ON &bt BT_OFF &none &none &kp LEFT &kp RIGHT
+                &studio_unlock &none &none &none &kp LEFT &kp RIGHT
 
                 &none &none &none
                 &none &none &none
