@@ -88,8 +88,6 @@
         underscore { bindings = <&kp UNDER>; key-positions = <30 18>; };
         leftbrack { bindings = <&kp LEFT_BRACKET>; key-positions = <31 32>; };
         rightbrack { bindings = <&kp RIGHT_BRACKET>; key-positions = <33 32>; };
-        para-less { bindings = <&paraless>; key-positions = <20 19>; };
-        para-great { bindings = <&paragreat>; key-positions = <20 21>; };
     };
 
     keymap {
